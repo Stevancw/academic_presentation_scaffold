@@ -1,0 +1,11 @@
+# Academic Project Scaffold
+
+This is a suggestion for a way of organising the files and folders associated with making and using your presentations.
+
+### Why should I think about using this?
+
+You may create and do many presentations and often you may present a similar topic to different audiences. You may need lots of files in order to build your presentation and things can get messy if you don't organise them all. By using this scaffold all of your presentations will have a common structure and no matter when you come back to review your presentation (you need to do a similar one, you need to look up something that you used during that presentation) you will know exactly where to find everything. 
+
+How many times have you seen the slightly computer illiterate and ill-prepared presenter try to play a video and for nothing to happen? If they had used this scaffold for their presentation then the video files would be in the `assets/video` directory and all they would need to do is open it up and try to play the file (n.b. this won't help you with PC media codec woes but why not include a version of [VLC media player](http://portableapps.com/apps/music_video/vlc_portable "portableapps.com") in your `lib` directory? 
+
+I've tried to use [Convention over configuration](http://en.wikipedia.org/wiki/Convention_over_configuration "Wikipaedia") and have setup everything the way I like for my presentations but please feel free to fork and adapt this to your needs (after all they're your presentations).

@@ -2,4 +2,4 @@
 
 In this folder you should place your research papers (.pdf format) and a BibTeX file containing the references for easy citing.
 
-The .pdf files will not be stored by git or uploaded to GitHub (`.pdf is in the .gitignore file) They are usually large files and this is largely unecessary. Thre is one .pdf file (with linked BibTeX record) in the project however as an example and you should delete this.
+The .pdf files will not be stored by git or uploaded to GitHub (`.pdf is in the .gitignore file) They are usually large files and this is largely unecessary. Thre is one .pdf file (with linked BibTeX record) in the project however as an example and you should delete this. Note: only .pdf files in this folder will be ignored so if you need to add graphics to the `assets` or `lib` folders you can do so and they will be tracked by git and uploaded to GitHub.

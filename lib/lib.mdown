@@ -1,0 +1,3 @@
+# The Lib Folder
+
+In this folder you should place related documents that are associated with either the presentation or the practicalities  e.g. agenda of the meeting, notes about your audience, useful emails (as .txt) or information about how to get there.

@@ -1,0 +1,5 @@
+# The Research Folder
+
+In this folder you should place your research papers (.pdf format) and a BibTeX file containing the references for easy citing.
+
+The .pdf files will not be stored by git or uploaded to GitHub (`.pdf is in the .gitignore file) They are usually large files and this is largely unecessary. Thre is one .pdf file (with linked BibTeX record) in the project however as an example and you should delete this.

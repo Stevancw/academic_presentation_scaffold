@@ -1,0 +1,3 @@
+# The Images Folder
+
+Place and images, screen grabs etc. that you will use in your presentation in this folder.

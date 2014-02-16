@@ -1,0 +1,3 @@
+# The Analysis Folder
+
+Place any code or protocols that you used in this folder. You may wish to include it in your presentation but even if you don't it can be useful to have the analysis easily on hand to fend off those pesky trolls.

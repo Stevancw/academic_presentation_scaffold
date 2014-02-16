@@ -1,0 +1,3 @@
+# The Data Folder
+
+You can place the data you need to refer to in these folders.

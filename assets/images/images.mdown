@@ -1,0 +1,3 @@
+# The Images Folder
+
+Place the image files that you will need for your presentation here.

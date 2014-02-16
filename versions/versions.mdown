@@ -1,0 +1,3 @@
+# The Versions Folder
+
+In this folder place the draft and final versions of your presentation, presentation notes or script (if you need one). Also it is recommended that you create more than one type of file for the presentation e.g. a .key (Keynote) or .ppt (Powerpoint) file and a .pdf file that you can run in presentation mode if you run into software problems or email to your group after the event.

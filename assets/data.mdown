@@ -1,0 +1,3 @@
+# The Assets Folder
+
+You can place the assets you need for your presentation in these folders.
